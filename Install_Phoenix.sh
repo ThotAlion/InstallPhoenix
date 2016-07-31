@@ -14,6 +14,7 @@ echo "Copy of all sources"
 echo "Installation of Open CV ROS binding"
 git clone https://github.com/ros-perception/vision_opencv.git
 git clone https://github.com/ros-perception/image_pipeline.git
+rm -rf image_pipeline/image_rotate
 echo "DONE"
 
 echo "Installation of ARUCO binding from Aerostack"
