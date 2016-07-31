@@ -5,11 +5,9 @@ source ~/ros_catkin_ws/devel_isolated/setup.bash
 echo "DONE"
 
 echo "Create the drone catkin workspace"
-mkdir ~/drone_catkin_ws
-cd ~/drone_catkin_ws
+mkdir -p ~/drone_catkin_ws/src
+cd ~/drone_catkin_ws/src
 catkin_init_workspace
-mkdir src
-cd src
 echo "DONE"
 
 echo "Copy of all sources"
