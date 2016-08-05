@@ -12,4 +12,4 @@ Then the directory drone_catkin_ws is created and compiled.
 
 # Drone sketch
 The sketchs are on ["On Shape"](https://cad.onshape.com/documents/f4d4c97e5ffdfa706e45c09e/w/39e162a0dcdda166288d931f/e/9e4372879e71d8f50a5a7206)
-https://forum.poppy-project.org/uploads/default/optimized/2X/a/a9b53fe277993119b36ac3a0d6c4598fde8fba49_1_690x388.jpg
+![Phoenix drone](https://forum.poppy-project.org/uploads/default/optimized/2X/a/a9b53fe277993119b36ac3a0d6c4598fde8fba49_1_690x388.jpg)
