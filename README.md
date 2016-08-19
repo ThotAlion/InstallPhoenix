@@ -26,3 +26,5 @@ The sketchs are on ["On Shape"](https://cad.onshape.com/documents/f4d4c97e5ffdfa
 - 1 [802.11ac wifi dongle](https://www.amazon.fr/gp/product/B00GN8UXBY/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 - 2 [servo motors SG90] (http://www.banggood.com/4-X-TowerPro-SG90-Mini-Gear-Micro-9g-Analog-Servo-p-1010676.html)
 - 1 [Raspberry Pi Camera Module NoIR](https://www.amazon.fr/Raspberry-Camera-Module-without-Filter/dp/B01ER4FDJ2/ref=sr_1_2?s=computers&ie=UTF8&qid=1471597630&sr=1-2&keywords=raspberry+pi+camera)
+
+Approximated cost : 270€ (without 3D printed parts)
